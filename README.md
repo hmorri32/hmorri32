@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Hugh, an experienced full stack engineer with expertise in designing APIs and building performant React applications.
 
 <!--
 **hmorri32/hmorri32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
